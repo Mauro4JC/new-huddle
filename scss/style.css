@@ -1,0 +1,18 @@
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  background-image: url("/images/logo.svg");
+  background-size: 200px;
+  background-position: left center;
+  background-repeat: no-repeat;
+}
+
+body {
+  background-color: #674bb1;
+  color: #ffffff;
+}
+/*# sourceMappingURL=style.css.map */
