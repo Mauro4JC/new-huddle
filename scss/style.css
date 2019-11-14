@@ -3,7 +3,7 @@
           box-sizing: border-box;
 }
 
-h1 {
+h5 {
   font-family: "Poppins", sans-serif;
   background-image: url("/images/logo.svg");
   background-size: 200px;
@@ -11,8 +11,24 @@ h1 {
   background-repeat: no-repeat;
 }
 
+div.logo {
+  margin-top: 35px;
+  margin-left: 45px;
+}
+
+div.left {
+  margin-top: 60px;
+  margin-left: 50px;
+}
+
+div.right {
+  right: 1000px;
+}
+
 body {
   background-color: #674bb1;
-  color: #ffffff;
+  background-image: url("/images/bg-desktop.svg");
+  background-size: auto;
+  background-repeat: no-repeat;
 }
 /*# sourceMappingURL=style.css.map */
