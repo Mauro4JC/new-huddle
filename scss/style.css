@@ -25,10 +25,18 @@ div.right {
   right: 1000px;
 }
 
+img.fondoizq {
+  padding: 0% 0% 0% 0%;
+}
+
+#content.container1 {
+  border: none;
+}
+
 body {
   background-color: #674bb1;
   background-image: url("/images/bg-desktop.svg");
-  background-size: auto;
+  background-size: 100% auto;
   background-repeat: no-repeat;
 }
 /*# sourceMappingURL=style.css.map */
